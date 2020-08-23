@@ -145,7 +145,7 @@ static const float  WATER_HEIGHT_RECP_SQUARED = WATER_HEIGHT_RECP * WATER_HEIGHT
 // ------------------    FOG            -------------------------
 // --------------------------------------------------------------
 
-static const float3 FOG_COLOR 					= float3( 0.12, 0.28, 0.6 );
+static const float3 FOG_COLOR 					= float3( 0.0, 0.0, 0.0 );
 static const float 	FOG_BEGIN					= 1.0f;
 static const float 	FOG_END 					= 150.0f;
 static const float 	FOG_MAX 					= 0.35f; 
